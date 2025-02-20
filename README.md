@@ -24,7 +24,7 @@
 
 
 <p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaibalya27&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true" alt="kaibalya27" /></p>
-
+<br>
 <h1 id="social" align="left">🌐 Socials:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/kaibalyamohapatra" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2d21f6ce-1bba-43fa-a3b7-96be6f937797" alt="kaibalya mohapatra" height="30" width="30" /></a>
