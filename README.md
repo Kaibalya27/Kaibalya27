@@ -9,6 +9,7 @@
 
 <h1 align="left">💫 About Me:</h1>
 <p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaibalya27&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true" alt="kaibalya27" /></p>
+
 🔭 **Currently Working On:**  
 - AI-powered projects in **Data Science, Computer Vision, and NLP**  
 - Enhancing my skills in **ML & Deep Learning** to solve real-world challenges  
